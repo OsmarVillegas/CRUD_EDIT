@@ -34,3 +34,9 @@ Debe mantener el servidor encendido mientras la aplicación este en uso.
 <picture>
   <img alt="./imagenes/CRUD.PNG" src="./imagenes/CRUD.PNG">
 </picture>
+
+# Base de datos
+
+<picture>
+  <img alt="./imagenes/MONGODB.PNG.PNG" src="./imagenes/MONGODB.PNG.PNG">
+</picture>
