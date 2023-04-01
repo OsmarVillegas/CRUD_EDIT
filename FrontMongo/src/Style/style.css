@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+
+.centrarContenido {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
